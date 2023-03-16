@@ -1,3 +1,3 @@
 # learning rust
 #
-# converting Celsius <--> Farenheit in any way
+converting Celsius <--> Fahrenheit in any way
